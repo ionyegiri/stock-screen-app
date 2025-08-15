@@ -17,4 +17,4 @@ screenshot.png
 ### Local Run
 ```bash
 pip install -r requirements.txt
-streamlit run streamlit_app.py
+streamlit run stock_screen_app.py
